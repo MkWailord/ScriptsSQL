@@ -1,0 +1,16 @@
+
+Sesión modificada.
+
+
+FIRST_NAME                |=| MI                             |=| FIRST                                                                                
+------------------------- |=| ------------------------------ |=| ------------------------------                                                       
+Suzanne M.                |=| M.                             |=| Suzanne                                                                              
+Thomas E.                 |=| E.                             |=| Thomas                                                                               
+Austin V.                 |=| V.                             |=| Austin                                                                               
+Rafael A.                 |=| A.                             |=| Rafael                                                                               
+James E.                  |=| E.                             |=| James                                                                                
+Lynwood A.                |=| A.                             |=| Lynwood                                                                              
+John T.                   |=| T.                             |=| John                                                                                 
+
+7 filas seleccionadas.
+

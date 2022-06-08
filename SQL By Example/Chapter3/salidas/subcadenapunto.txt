@@ -1,0 +1,30 @@
+
+Sesión modificada.
+
+
+FIRST_NAME                |=| LAST_NAME                                                                                                               
+------------------------- |=| -------------------------                                                                                               
+Suzanne M.                |=| Abid                                                                                                                    
+Austin V.                 |=| Cadet                                                                                                                   
+D.                        |=| Orent                                                                                                                   
+J.                        |=| Dalvi                                                                                                                   
+D.                        |=| Dewitt                                                                                                                  
+A.                        |=| Tucker                                                                                                                  
+M.                        |=| Diokno                                                                                                                  
+J.                        |=| Segall                                                                                                                  
+O.                        |=| Garnes                                                                                                                  
+E.A.                      |=| Torres                                                                                                                  
+J.                        |=| Landry                                                                                                                  
+James E.                  |=| Norman                                                                                                                  
+Rafael A.                 |=| Torres                                                                                                                  
+R.                        |=| Sprouse                                                                                                                 
+Lynwood A.                |=| Thorton                                                                                                                 
+John T.                   |=| Beitler                                                                                                                 
+Thomas E.                 |=| La Blank                                                                                                                
+P.                        |=| Balterzar                                                                                                               
+V.                        |=| Greenberg                                                                                                               
+V.                        |=| Saliternan                                                                                                              
+Z.A.                      |=| Scrittorale                                                                                                             
+
+21 filas seleccionadas.
+

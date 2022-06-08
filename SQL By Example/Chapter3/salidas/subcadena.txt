@@ -1,0 +1,11 @@
+
+Sesión modificada.
+
+
+FIRST_NAME                |=| LAST_NAME                                                                                                               
+------------------------- |=| -------------------------                                                                                               
+Vinnie                    |=| Moon                                                                                                                    
+Angel                     |=| Moskowitz                                                                                                               
+B                         |=| Montanez                                                                                                                
+Edgar                     |=| Moffat                                                                                                                  
+

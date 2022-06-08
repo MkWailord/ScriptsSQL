@@ -1,0 +1,11 @@
+
+Sesión modificada.
+
+
+INSTRUCTOR_ID |=| ZIP   |=| Decode Use                                                                                                                
+------------- |=| ----- |=| -----------                                                                                                               
+          102 |=| 10025 |=| 10025                                                                                                                     
+          110 |=| s/Dat |=| NO zipcode!                                                                                                               
+              |=| os    |=|                                                                                                                           
+                                                                                                                                                      
+
