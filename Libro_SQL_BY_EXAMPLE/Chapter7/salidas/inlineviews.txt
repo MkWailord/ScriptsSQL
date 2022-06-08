@@ -1,0 +1,18 @@
+
+Sesión modificada.
+
+
+STUDENT_ID |=| SECTION_ID |=| ENROLL_D                                                                                                                
+---------- |=| ---------- |=| --------                                                                                                                
+       123 |=|         87 |=| 04/02/03                                                                                                                
+
+
+STUDENT_ID |=| LAST_NAME                                                                                                                              
+---------- |=| -------------------------                                                                                                              
+       123 |=| Radicola                                                                                                                               
+
+
+STUDENT_ID |=| SECTION_ID |=| LAST_NAME                                                                                                               
+---------- |=| ---------- |=| -------------------------                                                                                               
+       123 |=|         87 |=| Radicola                                                                                                                
+

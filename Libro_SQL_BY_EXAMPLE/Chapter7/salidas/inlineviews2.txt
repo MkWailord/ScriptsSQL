@@ -1,0 +1,18 @@
+
+Sesión modificada.
+
+
+NUM_ENROLLED                                                                                                                                          
+------------                                                                                                                                          
+           9                                                                                                                                          
+
+
+  CAPACITY                                                                                                                                            
+----------                                                                                                                                            
+        80                                                                                                                                            
+
+
+Enrollments |=| Actual Revenue |=| Total Capacity |=| Potential Revenue                                                                               
+----------- |=| -------------- |=| -------------- |=| -----------------                                                                               
+          9 |=|          10755 |=|             80 |=|             95600                                                                               
+

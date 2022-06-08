@@ -1,0 +1,22 @@
+
+Sesión modificada.
+
+
+ MIN(COST)                                                                                                                                            
+----------                                                                                                                                            
+      1095                                                                                                                                            
+
+
+ COURSE_NO |=| DESCRIPTION                                        |=|       COST                                                                      
+---------- |=| -------------------------------------------------- |=| ----------                                                                      
+       135 |=| Unix Tips and Techniques                           |=|       1095                                                                      
+       230 |=| Intro to Internet                                  |=|       1095                                                                      
+       240 |=| Intro to the Basic Language                        |=|       1095                                                                      
+
+
+ COURSE_NO |=| DESCRIPTION                                        |=|       COST                                                                      
+---------- |=| -------------------------------------------------- |=| ----------                                                                      
+       135 |=| Unix Tips and Techniques                           |=|       1095                                                                      
+       230 |=| Intro to Internet                                  |=|       1095                                                                      
+       240 |=| Intro to the Basic Language                        |=|       1095                                                                      
+
