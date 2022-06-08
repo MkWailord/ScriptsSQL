@@ -1,0 +1,9 @@
+
+Sesión modificada.
+
+ SELECT location, instructor_id,
+                  *
+ERROR en línea 1:
+ORA-00979: no es una expresión GROUP BY 
+
+

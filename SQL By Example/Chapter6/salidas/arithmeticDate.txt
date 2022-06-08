@@ -1,0 +1,9 @@
+
+Sesión modificada.
+
+
+ COURSE_NO |=| SECTION_NO |=| DESCRIPTION                    |=| LOCATION        |=| INSTRUCTOR_ID                                                    
+---------- |=| ---------- |=| ------------------------------ |=| --------------- |=| -------------                                                    
+       132 |=|          1 |=| Basics of Unix Admin           |=| L509            |=|           107                                                    
+       132 |=|          3 |=| Basics of Unix Admin           |=| L509            |=|           108                                                    
+

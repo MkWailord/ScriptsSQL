@@ -1,0 +1,8 @@
+
+Sesión modificada.
+
+
+MAX(COUNT(*))                                                                                                                                         
+-------------                                                                                                                                         
+           12                                                                                                                                         
+

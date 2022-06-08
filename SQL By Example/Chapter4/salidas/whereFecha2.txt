@@ -1,0 +1,17 @@
+
+Sesión modificada.
+
+
+LAST_NAME                 |=| REGISTRA                                                                                                                
+------------------------- |=| --------                                                                                                                
+Crocitto                  |=| 22/01/03                                                                                                                
+Landry                    |=| 22/01/03                                                                                                                
+Enison                    |=| 22/01/03                                                                                                                
+Moskowitz                 |=| 22/01/03                                                                                                                
+Olvsade                   |=| 22/01/03                                                                                                                
+Mierzwa                   |=| 22/01/03                                                                                                                
+Sethi                     |=| 22/01/03                                                                                                                
+Walter                    |=| 22/01/03                                                                                                                
+
+8 filas seleccionadas.
+

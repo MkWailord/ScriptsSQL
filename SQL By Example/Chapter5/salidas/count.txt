@@ -1,0 +1,8 @@
+
+Sesión modificada.
+
+
+COUNT(FINAL_GRADE) |=| COUNT(SECTION_ID) |=|   COUNT(*)                                                                                               
+------------------ |=| ----------------- |=| ----------                                                                                               
+                 1 |=|               226 |=|        226                                                                                               
+
