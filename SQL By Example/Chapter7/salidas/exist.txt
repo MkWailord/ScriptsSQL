@@ -1,0 +1,45 @@
+
+Sesión modificada.
+
+
+INSTRUCTOR_ID |=| LAST_NAME                 |=| FIRST_NAME                |=| ZIP                                                                     
+------------- |=| ------------------------- |=| ------------------------- |=| -----                                                                   
+          101 |=| Hanks                     |=| Fernand                   |=| 10015                                                                   
+          102 |=| Wojick                    |=| Tom                       |=| 10025                                                                   
+          103 |=| Schorin                   |=| Nina                      |=| 10025                                                                   
+          104 |=| Pertez                    |=| Gary                      |=| 10035                                                                   
+          105 |=| Morris                    |=| Anita                     |=| 10015                                                                   
+          106 |=| Smythe                    |=| Todd                      |=| 10025                                                                   
+          107 |=| Frantzen                  |=| Marilyn                   |=| 10005                                                                   
+          108 |=| Lowry                     |=| Charles                   |=| 10025                                                                   
+
+8 filas seleccionadas.
+
+
+INSTRUCTOR_ID |=| LAST_NAME                 |=| FIRST_NAME                |=| ZIP                                                                     
+------------- |=| ------------------------- |=| ------------------------- |=| -----                                                                   
+          101 |=| Hanks                     |=| Fernand                   |=| 10015                                                                   
+          102 |=| Wojick                    |=| Tom                       |=| 10025                                                                   
+          103 |=| Schorin                   |=| Nina                      |=| 10025                                                                   
+          104 |=| Pertez                    |=| Gary                      |=| 10035                                                                   
+          105 |=| Morris                    |=| Anita                     |=| 10015                                                                   
+          106 |=| Smythe                    |=| Todd                      |=| 10025                                                                   
+          107 |=| Frantzen                  |=| Marilyn                   |=| 10005                                                                   
+          108 |=| Lowry                     |=| Charles                   |=| 10025                                                                   
+
+8 filas seleccionadas.
+
+
+INSTRUCTOR_ID |=| LAST_NAME                 |=| FIRST_NAME                |=| ZIP                                                                     
+------------- |=| ------------------------- |=| ------------------------- |=| -----                                                                   
+          101 |=| Hanks                     |=| Fernand                   |=| 10015                                                                   
+          102 |=| Wojick                    |=| Tom                       |=| 10025                                                                   
+          103 |=| Schorin                   |=| Nina                      |=| 10025                                                                   
+          104 |=| Pertez                    |=| Gary                      |=| 10035                                                                   
+          105 |=| Morris                    |=| Anita                     |=| 10015                                                                   
+          106 |=| Smythe                    |=| Todd                      |=| 10025                                                                   
+          107 |=| Frantzen                  |=| Marilyn                   |=| 10005                                                                   
+          108 |=| Lowry                     |=| Charles                   |=| 10025                                                                   
+
+8 filas seleccionadas.
+

@@ -1,0 +1,36 @@
+
+Sesión modificada.
+
+
+SECTION_ID                                                                                                                                            
+----------                                                                                                                                            
+        84                                                                                                                                            
+
+
+STUDENT_ID                                                                                                                                            
+----------                                                                                                                                            
+       158                                                                                                                                            
+       199                                                                                                                                            
+
+
+LAST_NAME                 |=| FIRST_NAME                                                                                                              
+------------------------- |=| -------------------------                                                                                               
+Limate                    |=| Roy                                                                                                                     
+Segall                    |=| J.                                                                                                                      
+
+
+LAST_NAME                 |=| FIRST_NAME                                                                                                              
+------------------------- |=| -------------------------                                                                                               
+Limate                    |=| Roy                                                                                                                     
+
+
+LAST_NAME                 |=| FIRST_NAME                                                                                                              
+------------------------- |=| -------------------------                                                                                               
+Segall                    |=| J.                                                                                                                      
+
+
+LAST_NAME                 |=| FIRST_NAME                                                                                                              
+------------------------- |=| -------------------------                                                                                               
+Limate                    |=| Roy                                                                                                                     
+Segall                    |=| J.                                                                                                                      
+

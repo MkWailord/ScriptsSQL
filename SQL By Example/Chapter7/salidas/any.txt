@@ -1,0 +1,23 @@
+
+Sesión modificada.
+
+
+SECTION_ID |=| NUMERIC_GRADE                                                                                                                          
+---------- |=| -------------                                                                                                                          
+        84 |=|            88                                                                                                                          
+        84 |=|            88                                                                                                                          
+        84 |=|            77                                                                                                                          
+
+
+SECTION_ID |=| NUMERIC_GRADE                                                                                                                          
+---------- |=| -------------                                                                                                                          
+        84 |=|            99                                                                                                                          
+        84 |=|            88                                                                                                                          
+        84 |=|            88                                                                                                                          
+
+
+ninguna fila seleccionada
+
+
+ninguna fila seleccionada
+

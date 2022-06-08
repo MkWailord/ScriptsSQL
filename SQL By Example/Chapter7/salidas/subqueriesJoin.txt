@@ -1,0 +1,17 @@
+
+Sesión modificada.
+
+
+ COURSE_NO |=| DESCRIPTION                                                                                                                            
+---------- |=| --------------------------------------------------                                                                                     
+       122 |=| Intermediate Java Programming                                                                                                          
+       125 |=| JDeveloper                                                                                                                             
+       142 |=| Project Management                                                                                                                     
+
+
+ COURSE_NO |=| DESCRIPTION                                                                                                                            
+---------- |=| --------------------------------------------------                                                                                     
+       122 |=| Intermediate Java Programming                                                                                                          
+       125 |=| JDeveloper                                                                                                                             
+       142 |=| Project Management                                                                                                                     
+
