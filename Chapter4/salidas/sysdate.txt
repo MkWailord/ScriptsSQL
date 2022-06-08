@@ -1,8 +1,0 @@
-
-Sesión modificada.
-
-
-SYSDATE  |=| TO_CHAR(SYSDATE,'DD-MON-YY                                                                                                               
--------- |=| --------------------------                                                                                                               
-23/05/22 |=| 23-MAY-2022 11:00                                                                                                                        
-
